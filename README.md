@@ -14,7 +14,7 @@
 
 <br>
 
-##  Podcastr - NLW5 - Next Level Week #05
+##  Podcastr - Next Level Week #05 - NLW5
 
 - Status do Projeto: Em desenvolvimento :warning:
 
@@ -28,6 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [JavaScript](https://www.javascript.com/)
 - [HTML](https://html.spec.whatwg.org/)
 - [CSS](https://www.w3.org/Style/CSS/)
+- [SASS](https://sass-lang.com/)
 
 
 ## 💻 Projeto
