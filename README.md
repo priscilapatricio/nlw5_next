@@ -42,6 +42,7 @@ O Podcastr é uma aplicação web para ouvir Podcasts. É uma aplicação de um 
 - Faça um clone desse repositório;
 - Abra o terminal e faça a instalação dos pacotes de dependências do projeto - node_modules($ npm install),
 - Inicie o servidor no terminal ($ npx next dev) e abra o seu navegador [http://localhost:3000](http://localhost:3000).
+- Para iniciar o server.json ($ json-server server.json)[http://localhost:3000/episodes]
 
 ## 🤔 Como contribuir
 
