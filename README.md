@@ -14,6 +14,10 @@
 
 <br>
 
+<p align="center">
+  <img alt="Podcastr" src="/public/images/logo.png" width="60px"><br>
+</p>
+
 ##  Podcastr - Next Level Week #05 - NLW5
 
 - Status do Projeto: Em desenvolvimento :warning:
@@ -43,6 +47,7 @@ O Podcastr é uma aplicação web para ouvir Podcasts. É uma aplicação de um 
 - Abra o terminal e faça a instalação dos pacotes de dependências do projeto - node_modules($ npm install),
 - Inicie o servidor no terminal ($ npx next dev) e abra o seu navegador [http://localhost:3000](http://localhost:3000).
 - Inicie o servidor server.json no terminal ($ npm run server).
+- Build do projeto - como ele seria executado em produção ($ npm start).
 
 ## 🤔 Como contribuir
 
