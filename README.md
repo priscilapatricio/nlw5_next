@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img alt="Podcastr" src="/public/images/logo.png" width="60px"><br>
+  <img alt="Podcastr" src="/public/images/logo.png" width="200px"><br>
 </p>
 
 ##  Podcastr - Next Level Week #05 - NLW5
