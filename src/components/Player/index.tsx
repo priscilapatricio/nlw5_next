@@ -15,7 +15,8 @@ const audioRef = useRef<HTMLAudioElement>(null);
         episodeList, 
         currentEpisodeIndex, 
         isPlaying,
-        togglePlay
+        togglePlay,
+        setIsPlayingState
     } = useContext(PlayerContext)
 
     useEffect(() => {
@@ -78,6 +79,8 @@ const audioRef = useRef<HTMLAudioElement>(null);
                             src={episode.url}
                             ref={audioRef}
                             autoPlay
+                            onPlay={() => setIsPlayingState(true)}
+                            onPause={() => setIsPlayingState(false)}
                         />
                     )}
 
