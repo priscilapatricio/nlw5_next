@@ -14,12 +14,18 @@
 <br>
 
 <p align="center">
-  <img alt="Podcastr" src="/public/images/logo.png" width="200px"><br>
+  <img alt="Podcastr" src="/public/images/logo.png" width="200px"><br><br>
 </p>
 
 ##  Podcastr - Next Level Week #05 - NLW5
 
-- Status do Projeto: Em desenvolvimento :warning:
+- Status do Projeto: Concluído :heavy_check_mark:
+
+<p align="center">
+  <img alt="Home" src="/public/images/home.png" width="100%"><br><br>
+  <img alt="Home" src="/public/images/audio.png" width="100%"><br><br>
+  <img alt="Home" src="/public/images/faladev.png" width="100%"><br><br>
+</p>
 
 ## 🚀 Tecnologias
 
